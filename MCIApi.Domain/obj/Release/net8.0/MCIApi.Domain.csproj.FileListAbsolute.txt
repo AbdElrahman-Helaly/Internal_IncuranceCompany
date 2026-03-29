@@ -1,0 +1,12 @@
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\bin\Release\net8.0\MCIApi.Domain.deps.json
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\bin\Release\net8.0\MCIApi.Domain.dll
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\bin\Release\net8.0\MCIApi.Domain.pdb
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\obj\Release\net8.0\MCIApi.Domain.csproj.AssemblyReference.cache
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\obj\Release\net8.0\MCIApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\obj\Release\net8.0\MCIApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\obj\Release\net8.0\MCIApi.Domain.AssemblyInfo.cs
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\obj\Release\net8.0\MCIApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\obj\Release\net8.0\MCIApi.Domain.dll
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\obj\Release\net8.0\refint\MCIApi.Domain.dll
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\obj\Release\net8.0\MCIApi.Domain.pdb
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Domain\obj\Release\net8.0\ref\MCIApi.Domain.dll

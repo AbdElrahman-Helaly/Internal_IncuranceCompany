@@ -1,0 +1,6 @@
+@MCIApi.API_HostAddress = http://localhost:5127
+
+GET {{MCIApi.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

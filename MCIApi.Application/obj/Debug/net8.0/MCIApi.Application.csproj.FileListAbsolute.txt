@@ -1,0 +1,16 @@
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\bin\Debug\net8.0\MCIApi.Application.deps.json
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\bin\Debug\net8.0\MCIApi.Application.dll
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\bin\Debug\net8.0\MCIApi.Application.pdb
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\bin\Debug\net8.0\MCIApi.Domain.dll
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\bin\Debug\net8.0\MCIApi.Domain.pdb
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\obj\Debug\net8.0\MCIApi.Application.csproj.AssemblyReference.cache
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\obj\Debug\net8.0\MCIApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\obj\Debug\net8.0\MCIApi.Application.AssemblyInfoInputs.cache
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\obj\Debug\net8.0\MCIApi.Application.AssemblyInfo.cs
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\obj\Debug\net8.0\MCIApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\obj\Debug\net8.0\MCIApi.Application.sourcelink.json
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\obj\Debug\net8.0\MCIApi.A.49856F9F.Up2Date
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\obj\Debug\net8.0\MCIApi.Application.dll
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\obj\Debug\net8.0\refint\MCIApi.Application.dll
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\obj\Debug\net8.0\MCIApi.Application.pdb
+C:\Users\Devoloper\Desktop\MCI---API---.NET-main\CleanSolution\MCIApi.Application\obj\Debug\net8.0\ref\MCIApi.Application.dll

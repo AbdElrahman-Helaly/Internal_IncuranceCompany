@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MCIApi.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Localization.Abstractions": "8.0.8"
+        },
+        "runtime": {
+          "MCIApi.Domain.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Localization.Abstractions/8.0.8": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Localization.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.824.36908"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MCIApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Localization.Abstractions/8.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WYIsqP/A6dH/LWJznrvgoNPc7Q+CUJD0E78765GL3aonBtyFK1BKtPzBvvlnrr3SVqSO2r6xJCLgCEiCMG1gfA==",
+      "path": "microsoft.extensions.localization.abstractions/8.0.8",
+      "hashPath": "microsoft.extensions.localization.abstractions.8.0.8.nupkg.sha512"
+    }
+  }
+}
